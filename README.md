@@ -1,1 +1,1 @@
-The program Encodes and decodes given string basen on key matrix
+The program Encodes and decodes given string based on key matrix
